@@ -1,4 +1,4 @@
-#Know Your Chinese Noodles (Concept)
+# Know Your Chinese Noodles (Concept)
 
 **Short Description**
  
@@ -15,7 +15,7 @@ Moreover, now you can get different variants of this traditional Mandarin recipe
 * Don’t ignore the health benefits of garlic, ginger, and tofu.  
 * Refreshing dish!
 
-##Preparing Noodles (Task)
+# Preparing Noodles (Task)
 
 This section provides the necessary information and instructions to make veg noodles.
 
@@ -47,7 +47,7 @@ Your noodles are now ready.
 * Buying Chinese ingredients online
 	
 
-###Reference
+# Reference
 
 **Ingredients** 
 
